@@ -13,12 +13,17 @@ Software engineering is the systematic application of engineering principles to 
 5. Standardization: Promotes the use of best practices and standards, leading to consistent and reliable software products.
    
 Identify and describe at least three key milestones in the evolution of software engineering.
-
-
-List and briefly explain the phases of the Software Development Life Cycle.
 1. The Birth of Structured Programming (1960s-1970s): Structured programming introduced a systematic approach to software development, emphasizing the use of control structures like loops, conditionals, and subroutines to improve code clarity and reduce errors. This was a response to the "spaghetti code" problem, where unstructured code was hard to maintain and debug.
 2. Introduction of Object-Oriented Programming (OOP) (1980s): OOP revolutionized software development by organizing code around "objects" that represent real-world entities. These objects encapsulate data and behavior, promoting reusability, modularity, and abstraction.
 3. The Rise of Agile Methodologies (2000s): Agile methodologies, such as Scrum and Extreme Programming (XP), emerged as a response to the rigidity of traditional Waterfall development. Agile emphasizes iterative development, customer collaboration, and flexibility in responding to change.
+
+List and briefly explain the phases of the Software Development Life Cycle.
+  - Requirements: Gathering and documenting user needs and system requirements.
+  - Design: Creating high-level and detailed designs of the software architecture and user interface.
+  - Implementation: Writing code and building the software according to the design specifications.
+  - Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+  - Deployment: Releasing the software to users or customers.
+  - Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
    
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 1.Planning: Waterfall requires upfront, detailed planning; Agile focuses on adaptive planning.
